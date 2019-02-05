@@ -6,4 +6,3 @@ Przy implementowaniu wymaganych funkcjonalności (pobieranie listy klientów, ed
 • zaprojektować interfejs, który w odpowiedni sposób dopasowuje się do wielkości okna
 • przygotować formularz dodawania z walidacją uniemożlwiającą wyrzucenie wyjątku (zwróć uwagę na to jakie kolumny są wymagane w tabeli Animal),
 • zadbać o nazewnictwo zmiennych i metod oraz o ogólny porządek w kodzie (np. brak niewykorzystywanych metod)
- 
