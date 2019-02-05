@@ -1,0 +1,11 @@
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\DalDb\bin\Debug\DalDb.dll
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\DalDb\bin\Debug\DalDb.pdb
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\DalDb\obj\Debug\DalDb.csprojResolveAssemblyReference.cache
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\DalDb\obj\Debug\DalDb.dll
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\DalDb\obj\Debug\DalDb.pdb
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\bin\Debug\DalDb.dll
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\bin\Debug\DalDb.pdb
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\obj\Debug\DalDb.csprojAssemblyReference.cache
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\obj\Debug\DalDb.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\obj\Debug\DalDb.dll
+C:\Users\Artur\Documents\APBD_SA_S15444\DalDb\obj\Debug\DalDb.pdb

@@ -1,0 +1,37 @@
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe.config
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.exe
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.pdb
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csprojResolveAssemblyReference.cache
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form1.resources
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form2.resources
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Properties.Resources.resources
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.GenerateResource.Cache
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.pdb
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe.config
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.pdb
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csprojResolveAssemblyReference.cache
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form1.resources
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form2.resources
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Properties.Resources.resources
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.GenerateResource.Cache
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.CoreCompileInputs.cache
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.exe
+C:\Users\shkre\Downloads\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.pdb
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\DalDb.dll
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\DalDb.pdb
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe.config
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.exe
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\Kollos3.pdb
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\DalDb.dll
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\bin\Debug\DalDb.pdb
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csprojAssemblyReference.cache
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form1.resources
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Form2.resources
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.Properties.Resources.resources
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.GenerateResource.cache
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\APBD_SA_S15444.csproj.CopyComplete
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.exe
+C:\Users\Artur\Documents\APBD_SA_S15444\APBD_SA_S15444\obj\Debug\Kollos3.pdb

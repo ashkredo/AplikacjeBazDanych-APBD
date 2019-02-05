@@ -1,0 +1,10 @@
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\bin\Debug\Kollos3.exe.config
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\bin\Debug\Kollos3.exe
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\bin\Debug\Kollos3.pdb
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.csprojResolveAssemblyReference.cache
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.Form1.resources
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.Properties.Resources.resources
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.csproj.GenerateResource.Cache
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.exe
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.pdb
+C:\Users\s15444\Documents\Visual Studio 2015\Projects\Kollos3\Kollos3\obj\Debug\Kollos3.Form2.resources
