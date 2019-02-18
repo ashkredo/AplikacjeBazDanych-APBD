@@ -16,3 +16,9 @@ Przy implementowaniu wymaganych funkcjonalności (pobieranie listy klientów, ed
 • przygotować formularz dodawania z walidacją uniemożlwiającą wyrzucenie wyjątku (zwróć uwagę na to jakie kolumny są wymagane w tabeli Animal),
 
 • zadbać o nazewnictwo zmiennych i metod oraz o ogólny porządek w kodzie (np. brak niewykorzystywanych metod)
+
+![alt text](https://github.com/s15444/AplikacjeBazDanych-APBD/blob/master/APBD_SA_S15444/bin/1.PNG)
+![alt text](https://github.com/s15444/AplikacjeBazDanych-APBD/blob/master/APBD_SA_S15444/bin/2.PNG)
+![alt text](https://github.com/s15444/AplikacjeBazDanych-APBD/blob/master/APBD_SA_S15444/bin/3.PNG)
+![alt text](https://github.com/s15444/AplikacjeBazDanych-APBD/blob/master/APBD_SA_S15444/bin/4.PNG)
+![alt text](https://github.com/s15444/AplikacjeBazDanych-APBD/blob/master/APBD_SA_S15444/bin/5.PNG)
